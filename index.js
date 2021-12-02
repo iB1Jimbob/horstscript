@@ -1,4 +1,4 @@
-let code = "lass einspluseins:num = rechne 1 + 1;schreib rechne einspluseins * 2";
+let code = "YOUR CODE HERE";
 
 
 
